@@ -64,3 +64,5 @@ function buttonAnimation(activeKey) {
     animate.classList.remove("pressed");
   }, 100);
 }
+
+alert("keljdsf jfjaoefh");
